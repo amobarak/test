@@ -1,5 +1,0 @@
-Adding some text to it
-Adding second line
-Adding a third line that I dont really want
-Adding the fourth line now
-This is an addition Im making to my own branch
